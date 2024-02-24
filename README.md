@@ -1,4 +1,2 @@
-# json website
-
-### 聯絡我
-* https://www.facebook.com/qize.deng
+#### Demo
+https://ct2eng.github.io/json_website/country_info.html
